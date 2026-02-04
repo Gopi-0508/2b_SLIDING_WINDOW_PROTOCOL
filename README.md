@@ -42,7 +42,8 @@ while True:
 ## OUPUT
 Server.py
 
-<img width="1106" height="828" alt="image" src="https://github.com/user-attachments/assets/def3d0c0-5455-4e80-83a9-c6652e223a16" />
+<img width="1116" height="773" alt="Screenshot 2026-02-04 131208" src="https://github.com/user-attachments/assets/c70bd42d-8aa2-4444-863a-dd840cbafcd2" />
+
 
 Client.py
 
